@@ -1,0 +1,13 @@
+/* Dice.css */
+.dice-container {
+  margin: auto;
+  width: fit-content;
+}
+.dice-container img {
+  width: 100px;
+  height: 100px;
+}
+.dice-container button {
+  display: block;
+  margin: 20px auto;
+}
